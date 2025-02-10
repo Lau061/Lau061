@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Laura Hermones and I'm a Full Stack Developer from Brazil !</h2>
+<h2 align="left">Hii 𓍢ִ໋🌷͙֒! My name is Laura Hermones and I'm a Full Stack Developer from Brazil! (˶˃ ᵕ ˂˶) </h2>
 
 ###
 
@@ -39,6 +39,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/lau061/lau061/output/snake.svg" alt="Snake animation" />
 
-###
